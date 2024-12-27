@@ -1,6 +1,6 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.  03 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 06/12/2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -49,7 +49,7 @@
 ![Screenshot 2024-12-06 084209](https://github.com/user-attachments/assets/5d995460-9038-4647-b1e2-464bae378cec)
 
 ### Name: ASWIN B
-### Register Number: 24900642
+### Register Number: 212224110007
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
